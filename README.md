@@ -28,7 +28,7 @@ This project is an implementation of an air traffic control system using a **pri
 3. **Output**:
 - Flights are printed in the order of their arrival times.
 
-Example: Order of incoming flights: Order of incoming flights:
+Example: Order of incoming flights:
 ZA5348 arriving at 09:23:01
 
 ## How to Run
